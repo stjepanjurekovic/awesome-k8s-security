@@ -194,6 +194,9 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [Core Kubernetes by Chris Love](https://www.manning.com/books/core-kubernetes)
 
+[Road to Kubernetes by Justin Mitchel](https://www.manning.com/books/road-to-kubernetes)
+
+
 ## Certifications
 
 - [CKAD](https://www.cncf.io/certification/ckad/)
